@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ba53f02a4722021055c0d44a516d43e0" label="Patient Record" max_length="40" name="x_1283604_hosiptal_patient_record" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date of Join" mandatory="true" max_length="40" name="date_of_join" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="encode_utf8=false" label="Created By" max_length="32" name="u_created" read_only="true" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_created"/>
+        </index>
+    </element>
+</database>

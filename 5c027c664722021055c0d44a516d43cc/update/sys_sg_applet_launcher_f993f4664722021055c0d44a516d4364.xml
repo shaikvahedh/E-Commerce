@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Hosiptal Management</name>
+        <required_roles>x_1283604_hosiptal.admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 09:14:51</sys_created_on>
+        <sys_id>f993f4664722021055c0d44a516d4364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hosiptal Management</sys_name>
+        <sys_package display_value="Hosiptal Management" source="x_1283604_hosiptal">5c027c664722021055c0d44a516d43cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hosiptal Management">5c027c664722021055c0d44a516d43cc</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_f993f4664722021055c0d44a516d4364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 09:14:51</sys_updated_on>
+        <title>Hosiptal Management</title>
+    </sys_sg_applet_launcher>
+</record_update>
